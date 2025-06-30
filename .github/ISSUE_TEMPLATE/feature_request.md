@@ -8,6 +8,11 @@ assignees: ''
 ---
 
 **Details**
+---
 A clear and concise description of what the feature is.
 
 **User story**
+---
+As a ...
+I want to...
+so I...
